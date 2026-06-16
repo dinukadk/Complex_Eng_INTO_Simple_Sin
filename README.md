@@ -1,4 +1,4 @@
-# 🚀 Smart Document Analyzer: Complex English to Simple Sinhala
+# I know absolutely nothing about Next.js or Nest.js, but I built this Full-Stack "Complex ENGLISH into Simple SINHALA" Document Analyzer System! 🤯🚀
 
 > **Disclaimer: I built this entire Full-Stack application knowing absolutely ZERO about Next.js or Nest.js!** 
 > Yes, you read that right. This project was developed 100% through AI collaboration (Prompt Engineering). It showcases how modern AI tools can empower individuals to build complex, industry-level software solutions from scratch, without prior framework-specific knowledge.
