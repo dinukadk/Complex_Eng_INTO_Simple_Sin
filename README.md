@@ -3,7 +3,7 @@
 > **Disclaimer: I built this entire Full-Stack application knowing absolutely ZERO about Next.js or Nest.js!** 
 > Yes, you read that right. This project was developed 100% through AI collaboration (Prompt Engineering). It showcases how modern AI tools can empower individuals to build complex, industry-level software solutions from scratch, without prior framework-specific knowledge.
 
-🔗 **See it in action:**  *I will add the LinnkedIn post link when made a linkedIn post*
+🔗 **See it in action:**  https://www.linkedin.com/posts/dinukadk_artificialintelligence-promptengineering-ugcPost-7473188508069752833-OqdH/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAELhA4EBO3YXnutrX_4krLaNtKOQRZ8k1EU
 
 ---
 
